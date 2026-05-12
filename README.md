@@ -1,4 +1,4 @@
-<h1 align="center">✨ Oii, eu sou a Jheane! ✨</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Oii,%20eu%20sou%20a%20Jheane!%20✨&fontAlign=50&textBg=false&reversal=false&section=header"/>
 
 <p align="center">
 💻 Bacharel em Sistemas de Informação <br>
