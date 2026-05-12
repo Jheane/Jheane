@@ -3,6 +3,7 @@
 💻 Bacharel em Sistemas de Informação <br>
 📊 Focada em Dados, Front-end e Design <br>
 🎨 Criando soluções que unem lógica + experiência visual
+<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=12&pause=1000&color=A51DF7&background=EDC6FF00&center=true&vCenter=true&random=true&width=435&lines=Dados+%2B+Back-end;Front-end;Design+Gr%C3%A1fico" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -28,7 +29,6 @@ Atualmente, estou expandindo minhas habilidades em **Front-end e Design Gráfico
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
-
 ### 💾 Dados & Back-end
 - SQL
 - MySQL Server
@@ -104,5 +104,5 @@ Em breve você encontrará aqui:
 
 <p align="center">
 ✨ Obrigada por visitar meu perfil! ✨ <br>
-💜 Vamos construir algo incrível juntos!
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=A51DF7&vCenter=true&width=435&lines=Vamos+construir+algo+incr%C3%ADvel+juntos!+%F0%9F%92%9C" alt="Typing SVG" /></a>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=50&textBg=false&reversal=false&section=footer&animation=fadeIn&descAlign=50"/>
