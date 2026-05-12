@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Oii,%20eu%20sou%20a%20Jheane!%20✨&fontAlign=50&textBg=false&reversal=false&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Oii,%20eu%20sou%20a%20Jheane!%20✨&fontAlign=50&textBg=false&reversal=false&section=header"/>
 <p align="center">
 💻 Bacharel em Sistemas de Informação <br>
 📊 Focada em Dados, Front-end e Design <br>
@@ -106,4 +105,4 @@ Em breve você encontrará aqui:
 <p align="center">
 ✨ Obrigada por visitar meu perfil! ✨ <br>
 💜 Vamos construir algo incrível juntos!
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontAlign=50&textBg=false&reversal=false&section=footer&animation=fadeIn&descAlign=50"/>
