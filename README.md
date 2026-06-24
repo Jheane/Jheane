@@ -1,5 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Olá,%20eu%20sou%20a%20Jheane!%20✨&fontAlign=50&textBg=false&reversal=false&section=header"/>
 <p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Olá,%20eu%20sou%20a%20Jheane!%20✨&fontAlign=50&textBg=false&reversal=false&section=header"/>
 <a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=12&pause=1000&color=A51DF7&background=EDC6FF00&center=true&vCenter=true&random=true&width=535&lines=Dados+%2B+Back-end;Front-end;Design+Gr%C3%A1fico" alt="Typing SVG" /></a>
 💻 Bacharel em Sistemas de Informação | 📊 Focada em Dados, Front-end e Design | 🎨 Criando soluções que unem lógica + experiência visual
 </p>
