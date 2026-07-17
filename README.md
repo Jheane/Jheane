@@ -80,16 +80,18 @@ Atualmente, estou expandindo minhas habilidades em **Front-end e Design Gráfico
 
 ---
 
+### 💻 Projetos
+#### 🎵 Projeto 1 - bateria: projeto básico feito utilizando HTML, CSS e JS, com objetivo de, ao utilizar as teclas do teclado, sejam tocadas notas de bateria.
+#### É possível tambem compor, entrando com as teclas no campo abaixo do teclado exibido na tela e adicionando espaços, e tocar o conjunto depois de finalizada a inserção.
+#### <a href="https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria/">🥁 Clique aqui para visualizar!</a>
+
+---
+
 ### 🌐 Onde me encontrar
 📧 Email: jheane.s.santos@gmail.com | 💼 LinkedIn: www.linkedin.com/in/jheane | 🎨 Portfólio: www.behance.net/creativejheane  
 
 ---
 
-### 💻 Projetos
-#### 🎵 Projeto 1 - bateria: projeto básico feito utilizando HTML, CSS e JS, com objetivo de, ao utilizar as teclas do teclado, sejam tocadas notas de bateria.
-É possível tambem compor, entrando com as teclas no campo abaixo do teclado exibido na tela e adicionando espaços, e tocar o conjunto depois de finalizada a inserção.
-<a href="https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria/">Clique aqui para visualizar!</a>
----
 
 ## 🚧 Em construção...
 
