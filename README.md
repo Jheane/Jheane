@@ -1,109 +1,189 @@
-<p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=gradient&text=Olá,%20eu%20sou%20a%20Jheane!%20✨&fontAlign=50&textBg=false&reversal=false&section=header"/>
-<a href="https://git.io/typing-svg"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=12&pause=1000&color=A51DF7&background=EDC6FF00&center=true&vCenter=true&random=true&width=535&lines=Dados+%2B+Back-end;Front-end;Design+Gr%C3%A1fico" alt="Typing SVG" /></a>
-💻 Bacharel em Sistemas de Informação | 📊 Focada em Dados, Front-end e Design | 🎨 Criando soluções que unem lógica + experiência visual
-</p>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=F8D7FF,DFC2FF,C5B3FF,A991FF&text=Bem%20vindo(a)%20ao%20meu%20GitHub&fontColor=FFFFFF&fontSize=40&fontAlignY=35&animation=fadeIn"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=20&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=🌙+Front-end+Developer+em+formação;💜+Apaixonada+por+interfaces+bonitas;✨+HTML+•+CSS+•+JavaScript+•+React;🌸+Sempre+aprendendo+algo+novo"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Front--end-CE93D8?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UI%2FUX-E1BEE7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/React-D1C4E9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JavaScript-B39DDB?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+## 🌙 Sobre
 
-Sou uma profissional apaixonada por tecnologia, com experiência sólida em **bancos de dados, relatórios e ambientes corporativos**, atuando diretamente na transformação de dados em informações estratégicas para tomada de decisão.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-Atualmente, estou expandindo minhas habilidades em **Front-end e Design Gráfico**, buscando criar soluções completas que não apenas funcionam bem, mas também proporcionam uma ótima experiência ao usuário.
+Olá! Eu sou a **Jheane** 💜
 
-💡 Acredito que tecnologia vai além do código: envolve organização, clareza e impacto real.
+Sou uma desenvolvedora Front-end em transição de carreira, apaixonada por tecnologia, design e experiências digitais.
+
+Minha trajetória começou na área de **dados**, trabalhando com bancos de dados, relatórios e resolução de problemas. Hoje utilizo essa base analítica para desenvolver interfaces modernas, acessíveis e intuitivas.
+
+Meu objetivo é criar aplicações que unam **beleza, organização e funcionalidade**.
+
+> ✨ *"Cada linha de código é um pequeno passo para construir algo mágico."*
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/jheane-magical.png" width="350"/>
+
+</td>
+</tr>
+</table>
+---
+
+# 💎 Tech Stack
+
+<div align="center">
+
+### 🌸 Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+
+<br><br>
+
+### 🌙 Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
+
+<br><br>
+
+### 🎨 Design
+
+<img src="https://skillicons.dev/icons?i=ps,ae"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Premiere-E8D5FF?style=for-the-badge&logo=adobepremierepro&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F6E7A7?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
 
 ---
 
-## 🌱 Atualmente estudando e desenvolvendo
+# 🌸 Atualmente
 
-- 💻 Front-end (HTML, CSS, JavaScript)
-- 🎨 Design gráfico (Photoshop, Premiere, After Effects)
-- 🧠 UX/UI e experiência do usuário
-- 🗄️ Melhoria de performance e organização de bancos de dados
-- 🧩 Projetos próprios para portfólio (em breve 🚀)
+🌙 Aprendendo React
 
----
+⭐ Desenvolvendo projetos pessoais
 
-## 🛠️ Tecnologias e Ferramentas
-### 💾 Dados & Back-end
-- SQL
-- MySQL Server
-- CRUD e manipulação de dados
-- Modelagem e administração de banco de dados
+💜 Estudando UX/UI
 
-### 💻 Desenvolvimento
-- HTML
-- CSS
-- JavaScript (em evolução)
+✨ Aprimorando JavaScript
 
-### 📊 Ferramentas e Relatórios
-- Visual Studio
-- RDLC / RPEx
-- Excel
-- Power BI (básico)
+🌷 Construindo um portfólio sólido
 
-### 🎨 Design & Criatividade
-- Photoshop
-- Premiere
-- After Effects
-- Clipchamp
-- Maya (3D)
-- ZBrush (3D)
+🐈‍⬛ Desvendando a IA
 
 ---
 
-## 💼 Experiência
+# 🌟 GitHub Analytics
 
-👩‍💻 **DBA / Dados**
-- Manipulação e administração de bancos MySQL  
-- Criação e manutenção de relatórios gerenciais  
-- Suporte estratégico para tomada de decisão  
-- Estruturação e organização de ambientes  
+<div align="center">
 
-📈 **Suporte & Sistemas**
-- Análise de problemas e melhoria de processos  
-- Atendimento técnico e treinamento de equipes  
-- Documentação e padronização de atividades  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jheane&show_icons=true&hide_border=true&theme=tokyonight"/>
 
----
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
-## 🎯 Soft Skills
+<br><br>
 
-✨ Organização  
-🤝 Trabalho em equipe  
-📌 Foco em resultados  
-🧠 Pensamento analítico  
-📚 Aprendizado contínuo  
-💬 Comunicação clara  
+<img src="https://streak-stats.demolab.com?user=Jheane&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 💻 Projetos
-#### 🎵 Projeto 1 - bateria: feito utilizando HTML, CSS e JS, com objetivo de, ao utilizar as teclas do teclado, sejam tocadas notas de uma bateria.
-#### É possível tambem compor uma sequência, entrando com as teclas no campo exibido na tela e adicionando espaços para pausas, e tocar o conjunto depois de finalizada a inserção.
-#### <a href="https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria/">🥁 Clique aqui para visualizar!</a>
+# 🌙 Featured Project
+
+## 🥁 Drum Kit
+
+✨ Projeto desenvolvido com **HTML, CSS e JavaScript**
+
+### Recursos
+
+🌸 Reprodução pelo teclado    
+
+🌙 Sequências personalizadas
+
+⭐ Reprodução automática
+
+💜 Interface responsiva
+
+🔗 **Demo**
+
+https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria/
 
 ---
 
-### 🌐 Onde me encontrar
-📧 Email: jheane.s.santos@gmail.com | 💼 LinkedIn: www.linkedin.com/in/jheane | 🎨 Portfólio: www.behance.net/creativejheane  
+# 🌸 Atualmente explorando
+
+☾ React
+
+☾ Componentização
+
+☾ UX/UI
+
+☾ Responsividade
+
+☾ Acessibilidade
+
+☾ Boas práticas
 
 ---
 
+# ✨ Let's Connect
 
-## 🚧 Em construção...
+<div align="center">
 
-Este GitHub está em evolução 🚀  
-Em breve você encontrará aqui:
+<a href="https://www.linkedin.com/in/jheane">
 
-- Projetos de Front-end  
-- Dashboards e análises de dados  
-- Projetos de design aplicados à tecnologia  
-- Estudos e experimentos  
+<img src="https://img.shields.io/badge/LinkedIn-B39DDB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:jheane.s.santos@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D8B4FE?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.behance.net/creativejheane">
+
+<img src="https://img.shields.io/badge/Behance-C8A2FF?style=for-the-badge&logo=behance&logoColor=white"/>
+
+</a>
+
+</div>
 
 ---
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&pause=1000&color=A51DF7&vCenter=true&width=435&lines=Vamos+construir+algo+incr%C3%ADvel+juntos!+%F0%9F%92%9C" alt="Typing SVG" /></a>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&fontAlign=50&textBg=false&reversal=false&section=footer&animation=fadeIn&descAlign=50"/>
+
+<div align="center">
+  
+            ✦
+        ☾        ☆
+  
+    🌸  Code with Logic
+    Create with Heart  🌸  
+  
+        ☆        ☽
+            ✦
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=F8D7FF,DFC2FF,C5B3FF,A991FF"/>
+
+</div>
