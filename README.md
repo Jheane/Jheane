@@ -22,9 +22,7 @@
 
 ## 🌙 Sobre
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="270" src="./assets/jheane-magical.png"/>
 
 Olá! Eu sou a **Jheane** 💜
 
@@ -36,15 +34,6 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 > ✨ *"Cada linha de código é um pequeno passo para construir algo mágico."*
 
-</td>
-
-<td width="35%" align="center">
-
-<img src="./assets/jheane-magical.png" width="350"/>
-
-</td>
-</tr>
-</table>
 ---
 
 # 💎 Tech Stack
@@ -55,13 +44,13 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react"/>
 
-<br><br>
+<br>
 
 ### 🌙 Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
 
-<br><br>
+<br>
 
 ### 🎨 Design
 
@@ -97,22 +86,20 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Jheane&show_icons=true&hide_border=true&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jheane&theme=tokyonight"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jheane&theme=tokyonight"/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jheane&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 <br><br>
-
-<img src="https://streak-stats.demolab.com?user=Jheane&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jheane&theme=tokyo-night"/>
 
 </div>
 
 ---
 
-# 🌙 Featured Project
+# 🌙 Projetos
 
-## 🥁 Drum Kit
+## 🥁 Bateria
 
 ✨ Projeto desenvolvido com **HTML, CSS e JavaScript**
 
@@ -175,15 +162,7 @@ https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projet
 ---
 
 <div align="center">
-  
-            ✦
-        ☾        ☆
-  
-    🌸  Code with Logic
-    Create with Heart  🌸  
-  
-        ☆        ☽
-            ✦
+✦ ☾ ☆ 🌸 Code with Logic Create with Heart 🌸 ☆ ☽ ✦
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=F8D7FF,DFC2FF,C5B3FF,A991FF"/>
 
 </div>
