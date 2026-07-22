@@ -42,25 +42,29 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 ### 🌸 Front-end
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+<img src="./assets/css-3.png" width="50"/>
+<img src="./assets/html-5.png" width="50"/>
+<img src="./assets/js.png" width="50"/>
+<img src="./assets/biblioteca.png" width="60"/>
 
 <br>
 
 ### 🌙 Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql"/>
-
-<br>
+<img src="./assets/git.png" width="50"/>
+<img src="./assets/github.png" width="50"/>
+<img src="./assets/vs.png" width="50"/>
+<img src="./assets/mysql.png" width="50"/>
 
 ### 🎨 Design
 
-<img src="https://skillicons.dev/icons?i=ps,ae"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Premiere-E8D5FF?style=for-the-badge&logo=adobepremierepro&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Power_BI-F6E7A7?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="./assets/figma.png" width="50"/>
+<img src="./assets/xd.png" width="50"/>
+<img src="./assets/indesign.png" width="50"/>
+<img src="./assets/ilustrador.png" width="50"/>
+<img src="./assets/photoshop.png" width="50"/>
+<img src="./assets/depois-dos-efeitos.png" width="50"/>
+<img src="./assets/canva-blue-square-logo-22813_1024.png" width="50"/>
 
 </div>
 
