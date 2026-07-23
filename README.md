@@ -121,6 +121,25 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria/
 
+
+## ⏰ Relógio
+
+✨ Projeto desenvolvido com **HTML, CSS e JavaScript**
+
+### Recursos
+
+🌸 Horário atual    
+
+🌙 Relógio analógico e digital
+
+⭐ Reprodução automática
+
+💜 Interface responsiva
+
+🔗 **Demo**
+
+https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%202%20-%20Relógio/
+
 ---
 
 # 🌸 Atualmente explorando
