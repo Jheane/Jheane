@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Bem-vindo(a) ao meu Github!
+  # Bem-vindo(a) ao meu GitHub!
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=20&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=🌙+Front-end+Developer+em+formação;💜+Apaixonada+por+interfaces+bonitas;✨+HTML+•+CSS+•+JavaScript;🌸+Sempre+aprendendo+algo+novo"/>
 
@@ -9,8 +9,6 @@
 <img src="https://img.shields.io/badge/Front--end-CE93D8?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/UI%2FUX-E1BEE7?style=for-the-badge"/>
-
-<!--<img src="https://img.shields.io/badge/React-D1C4E9?style=for-the-badge"/> -->
 
 <img src="https://img.shields.io/badge/JavaScript-B39DDB?style=for-the-badge"/>
 
@@ -46,14 +44,14 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 ## 🥁 Bateria
 
 🌙 Simulador de bateria pelo teclado.
-**Pratiquei:** entrada de valores no teclado, manipulação do DOM, responsividade, uso de sons no JS, uso de template string.
+**Pratiquei:** eventos de teclado, manipulação do DOM, reprodução de áudio, template strings e responsividade.
 
 <a href="https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria/">🔗 **Demo**</a> | <a href="https://github.com/Jheane/B7Web/tree/main/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria">💻 **Código**</a>
 
 ## ⏰ Relógio
 
 🌸 Projeto para visualização de horas, minutos e segundos com relógios analógico e digital.
-**Pratiquei:** manipulação do DOM, manipulação de data, transformação/rotação de elementos
+**Pratiquei:** objeto `Date`, atualização em tempo real com `setInterval`, manipulação do DOM e transformações CSS.
 
 <a href="https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%202%20-%20Relógio/">🔗 **Demo**</a> | <a href="https://github.com/Jheane/B7Web/tree/main/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%202%20-%20Rel%C3%B3gio">💻 **Código**</a>
 
@@ -112,7 +110,7 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 ---
 
-# ✨ Let's Connect
+# ✨ Vamos nos conectar!
 
 <div align="center">
 
