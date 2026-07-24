@@ -140,6 +140,24 @@ https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projet
 
 https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%202%20-%20Relógio/
 
+## ⛅ Clima
+
+✨ Projeto desenvolvido com **HTML, CSS e JavaScript**
+
+### Recursos
+
+🌸 Clima atual    
+
+🌙 Velocidade e direção do vento
+
+⭐ Reprodução automática
+
+💜 Interface responsiva
+
+🔗 **Demo**
+
+https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%203%20-%20Clima/
+
 ---
 
 # 🌸 Atualmente explorando
