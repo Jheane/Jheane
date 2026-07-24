@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Bem-vindo(a) ao meu GitHub!
+# Bem-vindo(a) ao meu GitHub!
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=20&duration=3500&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=🌙+Front-end+Developer+em+formação;💜+Apaixonada+por+interfaces+bonitas;✨+HTML+•+CSS+•+JavaScript;🌸+Sempre+aprendendo+algo+novo"/>
 
@@ -30,7 +30,7 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 ---
 
-# 🌸 Foco atual
+## 🌸 Foco atual
 
 🌙 Aprofundando JavaScript  
 ⚛️ Aprendendo React e componentização  
@@ -39,16 +39,16 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 ---
 
-# 🌙 Projetos
+## 🌙 Projetos
 
-## 🥁 Bateria
+### 🥁 Bateria
 
 🌙 Simulador de bateria pelo teclado.
 **Pratiquei:** eventos de teclado, manipulação do DOM, reprodução de áudio, template strings e responsividade.
 
 <a href="https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria/">🔗 **Demo**</a> | <a href="https://github.com/Jheane/B7Web/tree/main/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%201%20-%20Bateria">💻 **Código**</a>
 
-## ⏰ Relógio
+### ⏰ Relógio
 
 🌸 Projeto para visualização de horas, minutos e segundos com relógios analógico e digital.
 **Pratiquei:** objeto `Date`, atualização em tempo real com `setInterval`, manipulação do DOM e transformações CSS.
@@ -56,7 +56,7 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 <a href="https://jheane.github.io/B7Web/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%202%20-%20Relógio/">🔗 **Demo**</a> | <a href="https://github.com/Jheane/B7Web/tree/main/Web/Desafio%207%20projetos%20em%207%20dias/Projeto%202%20-%20Rel%C3%B3gio">💻 **Código**</a>
 
 
-## ⛅ Clima
+### ⛅ Clima
 
 ✨ Aplicação para consultar o clima atual de uma cidade por meio da OpenWeather API.
 **Pratiquei:** consumo de API, Fetch, async/await, manipulação do DOM e tratamento de respostas.
@@ -65,7 +65,7 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 ---
 
-# 💎 Tech Stack
+## 💎 Tech Stack
 
 <div align="center">
 
@@ -98,7 +98,7 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 ---
 
-# 🌟 GitHub Analytics
+## 🌟 GitHub Analytics
 
 <div align="center">
 
@@ -110,7 +110,7 @@ Meu objetivo é criar aplicações que unam **beleza, organização e funcionali
 
 ---
 
-# ✨ Vamos nos conectar!
+## ✨ Vamos nos conectar!
 
 <div align="center">
 
