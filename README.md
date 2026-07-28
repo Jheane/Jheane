@@ -27,6 +27,7 @@ Minha trajetória começou na área de **dados**, trabalhando com bancos de dado
 Meu objetivo é criar aplicações que unam **beleza, organização e funcionalidade**.
 
 > ✨ *"Cada linha de código é um pequeno passo para construir algo mágico."*
+<br/>
 
 ---
 
